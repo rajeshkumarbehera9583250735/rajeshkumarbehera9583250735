@@ -59,7 +59,7 @@
 
 - 🎯 [EBook Management System](https://github.com/rajeshkumarbehera9583250735/EBook-Management-System) – Java, JDBC, Servlet, JSP  
 - 📝 [Resume Details](https://github.com/rajeshkumarbehera9583250735/Resume-Details) – Resume PDF  
-- 🌐 [Responsive Portfolio](https://github.com/rajeshkumarbehera9583250735/Responsive-Portfolio) – Personal portfolio site  
+- 🌐 [Responsive Portfolio](https://rajeshkumarbehera9583250735.github.io/Responsive_Portfolio/) – Personal portfolio site  
 - 🎓 [Online Examination System](https://github.com/rajeshkumarbehera9583250735/online-examination-system) – Java, PostgreSQL
 
 ---
