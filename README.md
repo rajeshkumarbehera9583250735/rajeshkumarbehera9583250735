@@ -10,8 +10,8 @@
 - 💬 Ask me about **Java, SQL, JSP, Servlets, Hibernate, Spring Boot, JDBC**  
 - 📫 Email: [rajeshkumarbeheracool@gmail.com](mailto:rajeshkumarbeheracool@gmail.com)  
 - 📄 [My Resume]( https://rajeshkumarbehera9583250735.github.io/Resume-Details/)
-- 
-- ⚡ Fun fact: I love debugging and coffee ☕💻  
+
+- ⚡ Fun fact: When I’m not debugging Java code, you’ll find me swinging a ball on the cricket field 👨‍💻🏏⚙️
 
 ---
 
