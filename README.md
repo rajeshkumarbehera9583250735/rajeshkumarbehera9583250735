@@ -6,7 +6,7 @@
 - 🎓 MCA Graduate  
 - 🌱 Currently learning **Spring Boot**
 - 🔧 Working on Java Web Projects  
-- 📁 All my projects: [Portfolio Website](https://rajeshkumarbehera9583250735.github.io/Responsive-Portfolio/)  
+- 📁 All my projects: [Portfolio Website](https://rajeshkumarbehera9583250735.github.io/Responsive_Portfolio/)  
 - 💬 Ask me about **Java, SQL, JSP, Servlets, Hibernate, Spring Boot, JDBC**  
 - 📫 Email: [rajeshkumarbeheracool@gmail.com](mailto:rajeshkumarbeheracool@gmail.com)  
 - 📄 [My Resume](https://github.com/rajeshkumarbehera9583250735/Resume-Details)
