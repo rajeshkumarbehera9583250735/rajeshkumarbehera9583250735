@@ -14,9 +14,7 @@
 - 📄 [My Resume](https://rajeshkumarbehera9583250735.github.io/Resume-Details/)  
 - ⚡ Fun fact: When I’m not debugging Java code, you’ll find me swinging a ball on the cricket field 👨‍💻🏏⚙️
 
-<p align="center">
-  <img src="https://media.giphy.com/media/gN5PBbTZQ63ghh1bZG/giphy.gif" width="200" alt="Cricket Fun" />
-</p>
+
 
 ---
 
