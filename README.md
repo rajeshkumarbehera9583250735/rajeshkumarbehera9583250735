@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar Behera</h1>
 <h3 align="center">Aspiring Software Engineer from Odisha, India</h3>
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ---
 
 - 🎓 MCA Graduate  
@@ -9,9 +11,12 @@
 - 📁 All my projects: [Portfolio Website](https://rajeshkumarbehera9583250735.github.io/Responsive_Portfolio/)  
 - 💬 Ask me about **Java, SQL, JSP, Servlets, Hibernate, Spring Boot, JDBC**  
 - 📫 Email: [rajeshkumarbeheracool@gmail.com](mailto:rajeshkumarbeheracool@gmail.com)  
-- 📄 [My Resume]( https://rajeshkumarbehera9583250735.github.io/Resume-Details/)
-
+- 📄 [My Resume](https://rajeshkumarbehera9583250735.github.io/Resume-Details/)  
 - ⚡ Fun fact: When I’m not debugging Java code, you’ll find me swinging a ball on the cricket field 👨‍💻🏏⚙️
+
+<p align="center">
+  <img src="https://media.giphy.com/media/gN5PBbTZQ63ghh1bZG/giphy.gif" width="200" alt="Cricket Fun" />
+</p>
 
 ---
 
@@ -32,9 +37,7 @@
   <img src="https://img.shields.io/badge/Servlets-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JSP-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
