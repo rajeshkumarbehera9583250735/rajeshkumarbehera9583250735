@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar Behera</h1>
 <h3 align="center">Aspiring Software Engineer from Odisha, India</h3>
 
-<img align="right" alt="Anonymous Hacker" width="300" src="https://media.giphy.com/media/2QIbqyE0S8v9s/giphy.gif">
-
+<img align="right" alt="Hacker" width="300" src="https://media.giphy.com/media/3o7TKsQ4f3lWzG9tdK/giphy.gif">
 
 ---
 
