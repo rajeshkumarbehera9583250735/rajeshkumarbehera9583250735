@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rajesh Kumar Behera</h1>
-<h3 align="center">Aspiring Software Engineer from Odisha, India</h3>
-
-<img align="right" alt="Hacker GIF" width="300" src="https://raw.githubusercontent.com/rajeshkumarbehera9583250735/rajeshkumarbehera9583250735/main/Hacker%20Image.gif">
-
----
-
-- 🎓 MCA Graduate  
-- 🌱 Currently learning **Spring Boot**
-- 🔧 Working on Java Web Projects  
-- 📁 All my projects: [Portfolio Website](https://rajeshkumarbehera9583250735.github.io/Responsive_Portfolio/)  
-- 💬 Ask me about **Java, SQL, JSP, Servlets, Hibernate, Spring Boot, JDBC**  
-- 📫 Email: [rajeshkumarbeheracool@gmail.com](mailto:rajeshkumarbeheracool@gmail.com)  
-- 📄 [My Resume](https://rajeshkumarbehera9583250735.github.io/Resume-Details/)  
-- ⚡ Fun fact: When I’m not debugging Java code, you’ll find me swinging a ball on the cricket field 👨‍💻🏏⚙️
-
+<table>
+  <tr>
+    <td>
+      <h1>Hi 👋, I'm Rajesh Kumar Behera</h1>
+      <h3>Aspiring Software Engineer from Odisha, India</h3>
+      <ul>
+        <li>🎓 MCA Graduate</li>
+        <li>🌱 Currently learning <strong>Spring Boot</strong></li>
+        <li>🔧 Working on Java Web Projects</li>
+        <li>📁 All my projects: <a href="https://rajeshkumarbehera9583250735.github.io/Responsive_Portfolio/">Portfolio Website</a></li>
+        <li>💬 Ask me about <strong>Java, SQL, JSP, Servlets, Hibernate, Spring Boot, JDBC</strong></li>
+        <li>📫 Email: <a href="mailto:rajeshkumarbeheracool@gmail.com">rajeshkumarbeheracool@gmail.com</a></li>
+        <li>📄 <a href="https://rajeshkumarbehera9583250735.github.io/Resume-Details/">My Resume</a></li>
+        <li>⚡ Fun fact: When I’m not debugging Java code, you’ll find me swinging a ball on the cricket field 👨‍💻🏏⚙️</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rajeshkumarbehera9583250735/rajeshkumarbehera9583250735/main/Hacker%20Image.gif" width="300" alt="Hacker GIF" />
+    </td>
+  </tr>
+</table>
 
 
 ---
