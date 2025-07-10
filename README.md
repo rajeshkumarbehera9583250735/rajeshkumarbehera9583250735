@@ -71,7 +71,8 @@
 ---
 
 Thanks for visiting! 🙏  
-Let’s build something awesome together 💻✨
+Let’s build something awesome together 💻✨  
 
-![Visitor Count](https://profile-counter.glitch.me/rajeshkumarbehera9583250735/count.svg)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeshkumarbehera9583250735.rajeshkumarbehera9583250735)
+
 
