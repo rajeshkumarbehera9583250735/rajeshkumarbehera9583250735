@@ -72,3 +72,6 @@
 
 Thanks for visiting! 🙏  
 Let’s build something awesome together 💻✨
+
+![Visitor Count](https://profile-counter.glitch.me/rajeshkumarbehera9583250735/count.svg)
+
