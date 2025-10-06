@@ -4,12 +4,11 @@
       <h1>Hi 👋, I'm Rajesh Kumar Behera</h1>
       <h3>Aspiring Software Engineer from Odisha, India</h3>
       <ul>
-        <li>🎓 MCA Graduate</li>
         <li>🌱 Currently learning <strong>Spring Boot</strong></li>
         <li>🔧 Working on Java Web Projects</li>
         <li>📁 All my projects: <a href="https://rajeshkumarbehera9583250735.github.io/Responsive_Portfolio/">Portfolio Website</a></li>
         <li>💬 Ask me about <strong>Java, SQL, JSP, Servlets, Hibernate, Spring Boot, JDBC</strong></li>
-        <li>📫 Email: <a href="mailto:rajeshkumarbeheracool@gmail.com">rajeshkumarbeheracool@gmail.com</a></li>
+        <li>📫 Email: <a href="mailto:rkb.rajesh5@gmail.com">rajeshkumarbeheracool@gmail.com</a></li>
         <li>📄 <a href="https://rajeshkumarbehera9583250735.github.io/Resume-Details/">My Resume</a></li>
         <li>⚡ Fun fact: When I’m not debugging Java code, you’ll find me swinging a ball on the cricket field 👨‍💻🏏⚙️</li>
       </ul>
