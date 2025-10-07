@@ -8,7 +8,7 @@
         <li>🔧 Working on Java Web Projects</li>
         <li>📁 All my projects: <a href="https://rajeshkumarbehera9583250735.github.io/Responsive_Portfolio/">Portfolio Website</a></li>
         <li>💬 Ask me about <strong>Java, SQL, JSP, Servlets, Hibernate, Spring Boot, JDBC</strong></li>
-        <li>📫 Email: <a href="mailto:rkb.rajesh5@gmail.com">rajeshkumarbeheracool@gmail.com</a></li>
+        <li>📫 Email: <a href="mailto:rkb.rajesh5@gmail.com">rkb.rajesh5@gmail.com</a></li>
         <li>📄 <a href="https://rajeshkumarbehera9583250735.github.io/Resume-Details/">My Resume</a></li>
         <li>⚡ Fun fact: When I’m not debugging Java code, you’ll find me swinging a ball on the cricket field 👨‍💻🏏⚙️</li>
       </ul>
@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kumar-behera-rk/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshkumarbeheracool@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Rajesh-Behera/pfbid02wb3XzvR6f9fhykRaL2cLvdd5wwk4K4rjKdWazd1KxsHb6XQGpQ7hqR9QeNoH8WW7l/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im._rajesh_/)
